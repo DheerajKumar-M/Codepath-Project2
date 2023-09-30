@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://drive.google.com/file/d/1j_kto16MTeeW_YjwB5A_LDCIEGcuFmqE/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://drive.google.com/file/d/1j_kto16MTeeW_YjwB5A_LDCIEGcuFmqE/view?usp=sharing' title='Video Walkthrough](https://submissions.us-east-1.linodeobjects.com/web102/cBRGAXoL.gif)' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with screentogif 
